@@ -9,3 +9,8 @@ In this notebook, I practiced the foundational concepts of **Pandas Series**, in
 - **Data Loading:** Reading external datasets (`tips.csv`) and exploring basic properties.
 - **Exploratory Functions:** Checking shapes, column info, and summary statistics (`head()`, `info()`, `describe()`).
 - **Data Transformations:** Sorting values, counting categorical values, and applying custom lambda functions.# pandas-practice
+Training & Practice Exercises
+* **Focus:** Hands-on coding and reinforcement of concepts.
+* **What's inside:**
+  * Solved exercises and practical coding tasks.
+  * Applying what was learned in File 1 and File 2 to solve specific data manipulation challenges.
